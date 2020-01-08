@@ -1,0 +1,11 @@
+{
+    "env":{
+        "MONGO_USER": "testuser1",
+        "MONGO_PASSWORD": "testuserpassword",
+        "MONGO_DB": "events_react_dev" ,
+        "MONGO_HOST": "localhost" ,
+        "MONGO_PORT": "27017" ,
+        "JWT_PASSWORD" : "PaasdassssdasdwrodToUsasaasddeForEncasdrptingJWTToken249326r42394632946"
+        
+    }
+}
