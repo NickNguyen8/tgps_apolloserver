@@ -31,7 +31,7 @@
     "react-dom": "^16.8.6",
     "react-marked": "^0.3.1",
     "react-serialize": "^0.2.0",
-    "showdown": "^1.9.0",
+    "showdown": "^1.9.1",
     "subscriptions-transport-ws": "^0.9.16",
     "xml2js": "^0.4.19"
   },
